@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SolarStudent121/QuizMaster/static/css/main.64d6e2eb.css",
+    "main.js": "/SolarStudent121/QuizMaster/static/js/main.754c552a.js",
+    "static/js/787.1015df43.chunk.js": "/SolarStudent121/QuizMaster/static/js/787.1015df43.chunk.js",
+    "service-worker.js": "/SolarStudent121/QuizMaster/service-worker.js",
+    "index.html": "/SolarStudent121/QuizMaster/index.html",
+    "main.64d6e2eb.css.map": "/SolarStudent121/QuizMaster/static/css/main.64d6e2eb.css.map",
+    "main.754c552a.js.map": "/SolarStudent121/QuizMaster/static/js/main.754c552a.js.map",
+    "787.1015df43.chunk.js.map": "/SolarStudent121/QuizMaster/static/js/787.1015df43.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64d6e2eb.css",
+    "static/js/main.754c552a.js"
+  ]
+}
