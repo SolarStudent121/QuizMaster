@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/SolarStudent121/QuizMaster/static/css/main.64d6e2eb.css",
-    "main.js": "/SolarStudent121/QuizMaster/static/js/main.754c552a.js",
-    "static/js/787.1015df43.chunk.js": "/SolarStudent121/QuizMaster/static/js/787.1015df43.chunk.js",
-    "service-worker.js": "/SolarStudent121/QuizMaster/service-worker.js",
-    "index.html": "/SolarStudent121/QuizMaster/index.html",
-    "main.64d6e2eb.css.map": "/SolarStudent121/QuizMaster/static/css/main.64d6e2eb.css.map",
-    "main.754c552a.js.map": "/SolarStudent121/QuizMaster/static/js/main.754c552a.js.map",
-    "787.1015df43.chunk.js.map": "/SolarStudent121/QuizMaster/static/js/787.1015df43.chunk.js.map"
+    "main.css": "/QuizMaster/static/css/main.62bd8688.css",
+    "main.js": "/QuizMaster/static/js/main.1bd1f5b6.js",
+    "static/js/787.1015df43.chunk.js": "/QuizMaster/static/js/787.1015df43.chunk.js",
+    "service-worker.js": "/QuizMaster/service-worker.js",
+    "index.html": "/QuizMaster/index.html",
+    "main.62bd8688.css.map": "/QuizMaster/static/css/main.62bd8688.css.map",
+    "main.1bd1f5b6.js.map": "/QuizMaster/static/js/main.1bd1f5b6.js.map",
+    "787.1015df43.chunk.js.map": "/QuizMaster/static/js/787.1015df43.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.64d6e2eb.css",
-    "static/js/main.754c552a.js"
+    "static/css/main.62bd8688.css",
+    "static/js/main.1bd1f5b6.js"
   ]
 }
